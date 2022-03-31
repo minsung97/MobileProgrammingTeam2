@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MobileTeamPR</string>
+    <string name="id_exist">이미 존재하는 닉네임 입니다.</string>
+    <string name="id_done">사용 가능한 닉네임 입니다.</string>
+    <string name="pw_check">비밀번호는 영문소문자와 숫자 조합 4 ~ 10 글자로 입력해 주세요.</string>
+    <string name="pw_done">사용 가능한 비밀번호 입니다.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

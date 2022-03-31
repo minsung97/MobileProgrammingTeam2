@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".LoginActivity">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:background="@color/my_red"
+        android:gravity="center"
+        android:text="MobileTeamPR"
+        android:textColor="@color/white"
+        android:textSize="40dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/inputId"
+        android:layout_width="260dp"
+        android:layout_height="55dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/edit_round"
+        android:drawableLeft="@drawable/id_icon"
+        android:hint="user name" />
+
+    <EditText
+        android:id="@+id/inputPw"
+        android:layout_width="260dp"
+        android:layout_height="55dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/edit_round"
+        android:drawableLeft="@drawable/pw_icon"
+        android:inputType="textPassword"
+        android:hint="password" />
+
+    <Button
+        android:id="@+id/loginBtn"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:text="로그인"
+        android:textSize="18dp"
+        app:backgroundTint="@color/my_blue" />
+
+    <Button
+        android:id="@+id/joinBtn"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="30dp"
+        android:textSize="18dp"
+        app:backgroundTint="@color/my_gray"
+        android:text="회원가입"/>
+
+
+
+
+
+</LinearLayout>

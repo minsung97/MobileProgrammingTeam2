@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "391579393090",
+    "firebase_url": "https://mobileteampr-default-rtdb.firebaseio.com",
+    "project_id": "mobileteampr",
+    "storage_bucket": "mobileteampr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391579393090:android:7189eb7ab76c459eb521db",
+        "android_client_info": {
+          "package_name": "com.example.mobileteampr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391579393090-e4q335hfd0te5cvbg0qt0ik23f3t1j3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7dLucZkZRFNe6xVmgfJy6LnUdqjL-TBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391579393090-e4q335hfd0te5cvbg0qt0ik23f3t1j3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
